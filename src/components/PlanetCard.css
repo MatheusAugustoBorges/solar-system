@@ -1,0 +1,7 @@
+.planet_container {
+    display: flex;
+    justify-content: center;
+    height: 120px;
+    width: 120px;
+    padding: 10px;
+}
